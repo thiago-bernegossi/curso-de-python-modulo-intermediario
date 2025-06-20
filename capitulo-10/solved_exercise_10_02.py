@@ -1,9 +1,9 @@
 # ---------------------------------------------------------------------------------------------------------------------
 # ARQUIVO: solved_exercise_10_02.py
 # DATA DE CRIAÇÃO: 09-06-2025
-# DATA DE PUBLICAÇÃO: 09-06-2025
+# DATA DE PUBLICAÇÃO: 20-06-2025
 # CONTEUDISTA: Faculdade de Tecnologia (FATEC) do Estado de São Paulo
-# CONTEÚDO OFERTADO: Curso de Python – Módulo Básico
+# CONTEÚDO OFERTADO: Curso de Python – Módulo Intermediário
 # DOCENTE AUTOR: Sérgio Luiz Banin
 # DISCENTE: Thiago Bernegossi
 # DESCRIÇÃO: Arquivo que contém código-fonte desenvolvido na linguagem de programação Python para fins de aprendizado.
